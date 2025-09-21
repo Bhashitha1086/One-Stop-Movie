@@ -1,5 +1,7 @@
 # One-Stop-Movie
-
+* Developed a responsive movie discovery website using HTML, CSS, and JavaScript.
+* Implemented search and genre-based filtering for easy navigation of movies.
+* Designed an engaging UI with dynamic movie listings including posters, titles, and ratings.
 Website URL: 
 https://bhashitha1086.github.io/One-Stop-Movie/
 
